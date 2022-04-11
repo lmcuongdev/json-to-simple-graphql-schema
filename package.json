@@ -1,5 +1,5 @@
 {
-  "name": "@walmartlabs/json-to-simple-graphql-schema",
+  "name": "@lmcuongdev/json-to-schema",
   "description": "Converts a JSON object into a GraphQL schema",
   "version": "3.0.1",
   "homepage": "https://github.com/walmartlabs/json-to-simple-graphql-schema",
